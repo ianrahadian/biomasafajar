@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## material design and animation
 
 >yarn add @angular/material @angular/cdk
+
 >yarn add @angular/animations
 
 ## angular version
